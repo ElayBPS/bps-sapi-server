@@ -1,0 +1,19 @@
+{
+  "name": "test-ay-server",
+  "version": "1.0.0",
+  "description": "Test Server AY Project",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node api.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "git": "^0.1.5",
+    "mongodb": "^3.2.3",
+    "uuid": "^3.3.2"
+  }
+}
